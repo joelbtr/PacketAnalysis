@@ -7,7 +7,7 @@ A Python packet analyzer built on Scapy. Live capture, PCAP analysis, protocol d
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/netanalyzer
+git clone https://github.com/joelbtr/PacketAnalysis
 cd netanalyzer
 pip install -r requirements.txt
 ```
